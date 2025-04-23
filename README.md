@@ -14,4 +14,4 @@ The materials I used to make it (with Amazon links)
 - [PETG Filament](https://a.co/d/1sE99OA)
   
 A STEP file of the device case is added so you can print it yourself.
-I printed it with PETG filament and at 100% so that no water can get into the device.
+I printed it with PETG filament and at 100% infill so that no water can get into the device.
