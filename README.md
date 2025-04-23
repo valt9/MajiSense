@@ -12,9 +12,6 @@ The materials I used to make it (with Amazon links)
 - [Arduino Uno Rev3](https://store-usa.arduino.cc/products/arduino-uno-rev3?srsltid=AfmBOooq0MK1wtfph-lwjxDJ96BH1ft5lOGEP2697PZ50DQhbAN_b4dl)
 - [3D printer](https://www.creality.com/products/ender-3-pro-3d-printer)
 - [PETG Filament](https://a.co/d/1sE99OA)
-- Epoxy/resin[ I haven't decided or tested what is the best solution yet]
-
   
-
-A STEP file of the device case will be added soon so you can print it yourself.
-There will also be settings listed with the STEP file, I used to print the device
+A STEP file of the device case is added so you can print it yourself.
+I printed it with PETG filament and at 100% so that no water can get into the device.
